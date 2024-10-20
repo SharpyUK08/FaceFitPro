@@ -1,0 +1,112 @@
+
+FaceFitPro Software License Agreement
+
+Version 1.0
+Developed by Sam Sharpe
+Effective Date: 20/10/2024
+
+---
+
+1. License Grant
+
+Subject to the terms of this agreement, Sam Sharpe ("Licensor") grants you ("User") a non-exclusive, non-transferable, royalty-free license to use the FaceFitPro software ("Software") for personal, educational, or commercial purposes.
+
+2. Restrictions
+
+The following restrictions apply to your use of the Software:
+
+1. No Modification: You may not modify, adapt, translate, reverse-engineer, decompile, disassemble, or create derivative works based on the Software.
+2. No Distribution: You may not distribute, sublicense, rent, lease, or lend the Software, in whole or in part, to any third party.
+3. No Access to Source Code: This license does not grant you access to the source code of the Software. The source code is proprietary and confidential to the Licensor.
+4. No Removal of Notices: You may not remove, alter, or obscure any copyright, trademark, or other proprietary notices in the Software.
+
+3. Ownership
+
+The Software is the intellectual property of Sam Sharpe. All rights, title, and interest in the Software, including but not limited to any copyrights, trademarks, and patents, are owned by Sam Sharpe.
+
+4. Permitted Uses
+
+The Software may be used for the following purposes:
+
+- Personal use
+- Educational purposes
+- Commercial purposes (e.g., for use in a business setting)
+
+Note: While the Software may be used commercially, this does not grant the right to modify, distribute, or resell the Software.
+
+5. Disclaimer of Warranties
+
+The Software is provided "as is" without any warranties of any kind, whether express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+The Licensor does not warrant that the Software will be error-free or that it will meet your specific requirements.
+
+6. Limitation of Liability
+
+In no event shall Sam Sharpe be liable for any direct, indirect, incidental, special, or consequential damages arising out of or related to your use or inability to use the Software, even if the Licensor has been advised of the possibility of such damages.
+
+7. Third-Party Software
+
+This Software may include or use open-source libraries and tools. The following third-party libraries are included, and they are licensed under their respective open-source licenses:
+
+1. python-docx
+   License: MIT
+   Copyright: (C) 2013-2017, Steve Canny
+
+2. docx2pdf
+   License: MIT
+   Copyright: (C) 2019, AlJohri
+
+3. dateutil
+   License: Simplified BSD License
+   Copyright: (C) 2006-2015, Gustavo Niemeyer
+
+8. Termination
+
+This license is effective until terminated. Your rights under this license will terminate automatically without notice from the Licensor if you fail to comply with any of its terms. Upon termination, you must cease all use of the Software and destroy all copies in your possession.
+
+9. Governing Law
+
+This agreement shall be governed by and construed in accordance with the laws of the United Kingdom, without regard to its conflict of law principles.
+
+10. Contact Information
+
+If you have any questions regarding this license, please contact:
+
+Sam Sharpe
+Email: samsharpe.mail@gmail.com
+
+---
+
+Open-Source Licenses
+
+---
+
+MIT License for python-docx and docx2pdf
+
+Copyright (c) 2013-2017, Steve Canny
+Copyright (c) 2019, AlJohri
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+Simplified BSD License for dateutil
+
+Copyright (c) 2006-2015, Gustavo Niemeyer
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+---
+
+End of License Agreement
